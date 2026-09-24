@@ -7,4 +7,5 @@
 @import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_GenRyuMin@main/GenRyuMin_Regular.css');
 @import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_GenRyuMin@main/GenRyuMin_Medium.css');
 @import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_GenRyuMin@main/GenRyuMin_Bold.css');
+@import url('https://cdn.jsdelivr.net/gh/WinterholdPrime/webfont_GenRyuMin@main/GenRyuMin_Heavy.css');
 ```
